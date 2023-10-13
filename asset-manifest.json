@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Monthly-Expense-Checker/expense-checker/static/css/main.e9f44403.css",
+    "main.js": "/Monthly-Expense-Checker/expense-checker/static/js/main.f3417b55.js",
+    "index.html": "/Monthly-Expense-Checker/expense-checker/index.html",
+    "main.e9f44403.css.map": "/Monthly-Expense-Checker/expense-checker/static/css/main.e9f44403.css.map",
+    "main.f3417b55.js.map": "/Monthly-Expense-Checker/expense-checker/static/js/main.f3417b55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f44403.css",
+    "static/js/main.f3417b55.js"
+  ]
+}
